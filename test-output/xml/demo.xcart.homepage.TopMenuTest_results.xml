@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="X-Cart TopMenu Test, HotDeals Test and Shopping Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.252">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComingsoonPageSuccessfully" time="5.582" classname="demo.xcart.homepage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToContactUSPageSuccessfully" time="5.613" classname="demo.xcart.homepage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToNewPageSuccessfully" time="5.437" classname="demo.xcart.homepage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToShippingPageSuccessfully" time="5.620" classname="demo.xcart.homepage.TopMenuTest" />
+      
+</testsuite>
